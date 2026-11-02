@@ -1,0 +1,16 @@
+# Compiled binaries and stray C++ files
+*.exe
+*.o
+*.out
+*.cpp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+
+# Node modules (if any future JS tooling is added)
+node_modules/
